@@ -1,6 +1,2 @@
-name = "xianyuzhiwang1"
+name = "xy"
 compatibility_date = "2023-12-01"
-
-[pages_build_config]
-build_command = "npm run build"
-destination_dir = "dist"
